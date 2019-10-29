@@ -8,3 +8,4 @@ while (count < 1):
      file_ = _files[number]
     count = count + 1
     os.remove(file_)
+    print("Removed " % file_)
