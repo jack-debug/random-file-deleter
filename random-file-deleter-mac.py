@@ -2,7 +2,7 @@ import os
 import random
 
 count = 0
-while (count < 10):
+while (count < 1):
     _files = os.listdir('.')
     number = random.randint(0, len(_files) - 1)
      file_ = _files[number]
