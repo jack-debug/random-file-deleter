@@ -9,5 +9,8 @@ DISCLAIMER: THIS ONLY WORKS FOR WINDOWS RIGHT NOW
 ```
 python3 path/random-file-deleter.py
 ```
+or
+1. Download the most current release.
+2. There will be a unix executable/exe file. Run the file.
 ## Why would you make this?
-I really don't know.
+My pc had a big file problem, so I decided to try and free up some space
