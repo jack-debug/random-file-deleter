@@ -1,6 +1,6 @@
 # random-file-deleter
 random-file-deleter is a file deleter that deletes 10 random files every time you run it. If your tight on storage space, this is the tool for you!
-DISCLAIMER: THIS ONLY WORKS FOR WINDOWS RIGHT NOW
+
 random-file-deleter will only work in the folder/directory that you start the script/executable in.
 ## How to use
 ### PREFERRED
