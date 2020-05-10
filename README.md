@@ -5,10 +5,8 @@ random-file-deleter will only work in the folder/directory that you start the sc
 ## How to use
 1. Download this repository
 2. Install python3 on your computer
-3. Start a python3 interpreter
-4. Type into the interpreter
+3. Open your command terminal (Command Prompt for Windows, Terminal for Mac)
+4. Type into the terminal
 ```
 python3 path/random-file-deleter.py
 ```
-## Why would you make this?
-My pc had a big file problem, so I decided to try and free up some space with a python script. If you need to free up some space, this is the program for you!
