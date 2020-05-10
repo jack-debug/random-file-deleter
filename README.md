@@ -1,7 +1,5 @@
 # random-file-deleter
-random-file-deleter is a file deleter that deletes 10 random files every time you run it. If your tight on storage space, this is the tool for you!
-
-random-file-deleter will only work in the folder/directory that you start the script/executable in.
+random-file-deleter is a file deleter that deletes 10 random files every time you run it.
 ## How to use
 1. Download this repository
 2. Install python3 on your computer
