@@ -3,7 +3,6 @@ random-file-deleter is a file deleter that deletes 10 random files every time yo
 
 random-file-deleter will only work in the folder/directory that you start the script/executable in.
 ## How to use
-### PREFERRED
 1. Download this repository
 2. Install python3 on your computer
 3. Start a python3 interpreter
